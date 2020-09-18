@@ -1,0 +1,10 @@
+D:\Projects-C#\Gallows\bin\Debug\Gallows.exe.config
+D:\Projects-C#\Gallows\bin\Debug\Gallows.exe
+D:\Projects-C#\Gallows\bin\Debug\Gallows.pdb
+D:\Projects-C#\Gallows\obj\Debug\Gallows.csprojAssemblyReference.cache
+D:\Projects-C#\Gallows\obj\Debug\Gallows.Properties.Resources.resources
+D:\Projects-C#\Gallows\obj\Debug\Gallows.csproj.GenerateResource.cache
+D:\Projects-C#\Gallows\obj\Debug\Gallows.csproj.CoreCompileInputs.cache
+D:\Projects-C#\Gallows\obj\Debug\Gallows.exe
+D:\Projects-C#\Gallows\obj\Debug\Gallows.pdb
+D:\Projects-C#\Gallows\obj\Debug\Gallows.Form1.resources
